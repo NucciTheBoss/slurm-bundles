@@ -1,4 +1,0 @@
-applications:
-  slurmctld:
-    options:
-      proctrack-type: proctrack/linuxproc
